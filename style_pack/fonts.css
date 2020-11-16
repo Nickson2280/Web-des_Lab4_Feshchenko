@@ -1,0 +1,99 @@
+/*Creepy fonts*/
+
+/*Title*/
+
+@font-face {
+    font-family: 'Blade 2RUS';
+    src: url(../fonts_pack/creepy/BladeRus.ttf) format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+/*Text*/
+
+@font-face {
+    font-family: 'HARDBOR';
+    src: url(../fonts_pack/creepy/HARDBOR.ttf) format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+/*Fun fonts*/
+
+/*Title*/
+
+@font-face {
+    font-family: 'Art Nuveau-Cafe';
+    src: url(../fonts_pack/fun/Art_Nuveau-Cafe.ttf) format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+/*Text*/
+
+@font-face {
+    font-family: 'Pudelina';
+    src: url(../fonts_pack/fun/Pudelina.ttf) format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+/*Evil fonts*/
+
+/*Title*/
+
+@font-face {
+    font-family: 'Bleeding CowboysRUS';
+    src: url(../fonts_pack/evil/Bleeding_CowboysRUS.ttf) format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/*Text*/
+
+@font-face {
+    font-family: 'Brandley';
+    src: url(../fonts_pack/evil/Brandley.otf) format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+/*Romantic fonts*/
+
+/*Title*/
+
+@font-face {
+    font-family: 'Nekomancer ATH 0.3';
+    src: url(../fonts_pack/romantic/Nekomancer_ATH.otf) format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+/*Text*/
+
+@font-face {
+    font-family: 'notperfect regular';
+    src: url(../fonts_pack/romantic/notperfect_regular.ttf) format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+/*business fonts*/
+
+/*Title*/
+
+@font-face {
+    font-family: 'Columbia Print Cyrilic';
+    src: url(../fonts_pack/business/Columbia_Print_Cyrilic.otf) format('opentype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+/*Text*/
+
+@font-face {
+    font-family: 'PT Serif';
+    src: url(../fonts_pack/business/PT_Serif.ttf) format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
